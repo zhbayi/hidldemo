@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hidldemo</string>
+    <string name="hidl_test">hidl test</string>
+</resources>
